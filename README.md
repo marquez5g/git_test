@@ -1,1 +1,1 @@
-his is pantraz’s first git project!
+This is pantraz’s first git project!
